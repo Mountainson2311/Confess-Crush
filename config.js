@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Trâncute",
     introTitle: 'Hello bé',
-    introDesc: `Anh có câu hỏi này bé trả lời giúp anh nhé`,
+    introDesc: 'Anh có câu hỏi này bé trả lời giúp anh nhé',
     btnIntro: '^^Oke anh^^',
     title: 'Thứ 7 hay chủ nhật tuần này không biết bé có rảnh hong ta 😉',
     desc: 'Nếu rảnh thì mình đi xem phim nhé😙 ',
